@@ -19,8 +19,8 @@ This project is a **sales analysis dashboard** built using the AdventureWorks 20
 ![sales_products](https://github.com/user-attachments/assets/adee2f3d-9d08-474a-bbf8-2780cf04308c)
 
 - **Sales Orders**: A GIF of the dataset illustrating sales orders information.
-![sales_orders](https://github.com/user-attachments/assets/42e518e6-c831-41f2-bf20-5e970638f498)
 ![sales_orders](https://github.com/user-attachments/assets/74690593-30df-4ccc-9d67-5a9416e5ac52)
+![sales_orders](https://github.com/user-attachments/assets/42e518e6-c831-41f2-bf20-5e970638f498)
 
 
 ## Key Metrics
